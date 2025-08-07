@@ -61,3 +61,9 @@ dotnet build
 cd Send
 dotnet run
 ```
+
+* Run the consumer:
+```
+cd ../Receive
+dotnet run
+```
